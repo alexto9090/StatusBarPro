@@ -1,0 +1,3 @@
+rootProject.name = "StatusBarPro"
+include ':app'
+include ':statusbarlibrary'
